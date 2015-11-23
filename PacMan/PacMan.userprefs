@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\UI\LoadLevel.cs">
+    <Files>
+      <File FileName="Assets\Scripts\UI\GameBrain.cs" Line="129" Column="18" />
+      <File FileName="Assets\Scripts\Stage\Collectibles\OnBonusItem.cs" Line="7" Column="23" />
+      <File FileName="Assets\Scripts\Stage\Collectibles\BonusPoints.cs" Line="28" Column="10" />
+      <File FileName="Assets\Scripts\Stage\Characters\Ghosts\GhostMovement.cs" Line="40" Column="48" />
+      <File FileName="Assets\Scripts\Stage\Characters\Teleport\Teleportation.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI\In Game\StartTime.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI\In Game\Result\Result.cs" Line="60" Column="26" />
+      <File FileName="Assets\Scripts\UI\LoadLevel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI\In Game\forPause\Pause.cs" Line="44" Column="2" />
+      <File FileName="Assets\Scripts\Stage\Characters\PacMan\Pacman.cs" Line="106" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
